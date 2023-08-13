@@ -1,0 +1,3 @@
+([('Oda',
+   '/Users/Deepee/Desktop/Desktop/LEARN/oda-app/dist/Oda',
+   'EXECUTABLE')],)
